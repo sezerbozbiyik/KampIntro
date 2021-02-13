@@ -11,7 +11,7 @@ namespace OOP1
             product1.CategoryId = 2;
             product1.ProductName = "Masa";
             product1.UnitPrice = 500;
-            product1.UnitInStock = 3;
+            product1.UnitInStock = 5;
 
             Product product2 = new Product { Id = 2, CategoryId = 5, UnitInStock = 5, ProductName = "Kalem", UnitPrice = 35 };
 

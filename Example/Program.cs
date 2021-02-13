@@ -19,7 +19,6 @@ namespace OOP1
             productManager.Add(product1);
             Console.WriteLine(product1.ProductName);
 
-           
         }
     }
 }

@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "..\KampIntro-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "..\KampIntro-master\KampIntro\KampIntro.csproj", "{9B2ECA27-6ABB-4A62-AED6-7C979BBDB853}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{9C71E136-42F5-4C04-A478-F2978E93B99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{C72D4042-0ECD-4D74-A1FD-7FFD351EE10D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9B2ECA27-6ABB-4A62-AED6-7C979BBDB853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B2ECA27-6ABB-4A62-AED6-7C979BBDB853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B2ECA27-6ABB-4A62-AED6-7C979BBDB853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C71E136-42F5-4C04-A478-F2978E93B99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C71E136-42F5-4C04-A478-F2978E93B99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C71E136-42F5-4C04-A478-F2978E93B99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C71E136-42F5-4C04-A478-F2978E93B99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72D4042-0ECD-4D74-A1FD-7FFD351EE10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72D4042-0ECD-4D74-A1FD-7FFD351EE10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72D4042-0ECD-4D74-A1FD-7FFD351EE10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72D4042-0ECD-4D74-A1FD-7FFD351EE10D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
